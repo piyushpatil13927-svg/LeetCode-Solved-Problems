@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0077-combinations) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->

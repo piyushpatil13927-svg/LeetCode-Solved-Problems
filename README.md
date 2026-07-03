@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0216-combination-sum-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->

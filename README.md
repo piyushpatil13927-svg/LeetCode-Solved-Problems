@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0216-combination-sum-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |

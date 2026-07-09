@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0137-single-number-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3827-count-monobit-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->

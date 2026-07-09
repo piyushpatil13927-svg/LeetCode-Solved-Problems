@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0520-detect-capital](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
 ## Backtracking
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0216-combination-sum-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->

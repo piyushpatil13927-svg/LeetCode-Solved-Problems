@@ -6,3 +6,4 @@ class Solution(object):
                 if i!=j and nums[i] + nums[j] == target:
                     li.append(i)
         return li
+       

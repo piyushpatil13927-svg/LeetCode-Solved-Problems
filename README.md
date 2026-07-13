@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3861-minimum-capacity-box](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3861-minimum-capacity-box) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
 ## Backtracking
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Sliding Window
 |  |
 | ------- |

@@ -1,19 +1,31 @@
+
 class Solution(object):
     def letterCombinations(self, digits):
-        dist = [["abc"],["def"],["ghi"],["jkl"],["mno"],["pqrs"],["tuv"],["wxyz"]]
+        a = [["abc"],["def"],["ghi"],["jkl"],["mno"],["pqrs"],["tuv"],["wxyz"]]
         digits = list(map(int,str(digits)))
-        b=[]
+        c=[]
         for i in digits:
-            b+=dist[i-2]
-        ans=[]
-        path=[]
+            c+=a[i-2]
+        com=[]
+        part=[]
         def back(i):
-            if i==len(b):
-                ans.append("".join(path))
-                return 
-            for ch in b[i]:
-                path.append(ch)
+            if i==len(c):
+                com.append("".join(part))
+                return
+            for ch in c[i]:
+                part.append(ch)
                 back(i+1)
-                path.pop()
+                part.pop()
         back(0)
-        return ans
+        return com
+
+
+            
+
+        
+                
+
+
+        
+        
+        

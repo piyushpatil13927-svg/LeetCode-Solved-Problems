@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3827-count-monobit-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3827-count-monobit-integers) |
 ## Sorting

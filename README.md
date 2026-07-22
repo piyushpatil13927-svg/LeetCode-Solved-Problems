@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0118-pascals-triangle](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0338-counting-bits) |
 ## Bit Manipulation

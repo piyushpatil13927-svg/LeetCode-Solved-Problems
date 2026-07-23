@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
+| [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
 ## Backtracking
 |  |
 | ------- |

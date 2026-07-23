@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3516-find-closest-person) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3908-valid-digit-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3908-valid-digit-number) |
 ## Recursion
 |  |
 | ------- |

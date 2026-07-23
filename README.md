@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
 ## Backtracking
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3794-reverse-string-prefix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3794-reverse-string-prefix) |
 ## Database
 |  |
 | ------- |

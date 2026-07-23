@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3861-minimum-capacity-box](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3861-minimum-capacity-box) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-count-monobit-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3827-count-monobit-integers) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String Matching
 |  |
 | ------- |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3941-password-strength](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3941-password-strength) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
+| [3941-password-strength](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3941-password-strength) |
 ## Backtracking
 |  |
 | ------- |

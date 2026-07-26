@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
+| [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 | [3941-password-strength](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3941-password-strength) |
 ## Backtracking
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
+| [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 ## Game Theory
 |  |
 | ------- |

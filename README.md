@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3941-password-strength](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3945-digit-frequency-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |

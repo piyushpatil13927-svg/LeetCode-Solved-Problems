@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3870-count-commas-in-range](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3908-valid-digit-number) |

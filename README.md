@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Game Theory
 |  |
 | ------- |

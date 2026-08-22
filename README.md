@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3925-concatenate-array-with-reverse) |
+| [3985-palindromic-subarray-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3985-palindromic-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3985-palindromic-subarray-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3985-palindromic-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [3985-palindromic-subarray-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3985-palindromic-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3985-palindromic-subarray-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3985-palindromic-subarray-sum) |
 <!---LeetCode Topics End-->

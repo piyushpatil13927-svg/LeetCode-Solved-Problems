@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [3985-palindromic-subarray-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3985-palindromic-subarray-sum) |
+| [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0877-stone-game) |
+| [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |

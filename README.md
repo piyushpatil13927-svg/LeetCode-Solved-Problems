@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |

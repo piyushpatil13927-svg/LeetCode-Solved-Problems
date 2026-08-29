@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1408-string-matching-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |

@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
+| [2553-separate-the-digits-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3498-reverse-degree-of-a-string) |

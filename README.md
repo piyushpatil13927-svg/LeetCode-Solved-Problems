@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1122-relative-sort-array) |
 | [2032-two-out-of-three](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2032-two-out-of-three) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |

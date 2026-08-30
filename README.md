@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3866-first-unique-even-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3945-digit-frequency-score) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3861-minimum-capacity-box](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |

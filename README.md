@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |

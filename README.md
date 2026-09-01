@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2540-minimum-common-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [3985-palindromic-subarray-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3985-palindromic-subarray-sum) |
 ## Two Pointers
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3794-reverse-string-prefix) |
 ## Database

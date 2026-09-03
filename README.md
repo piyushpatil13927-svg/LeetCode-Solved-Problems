@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Number Theory
 |  |

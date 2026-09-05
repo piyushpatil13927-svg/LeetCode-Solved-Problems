@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
@@ -312,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

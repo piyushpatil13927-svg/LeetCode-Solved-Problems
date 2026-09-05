@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0216-combination-sum-iii) |
 ## Math
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0137-single-number-ii) |

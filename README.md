@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
+| [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -338,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

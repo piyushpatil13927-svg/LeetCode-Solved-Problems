@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |

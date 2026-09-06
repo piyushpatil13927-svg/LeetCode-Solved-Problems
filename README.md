@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0191-number-of-1-bits) |
 ## Queue
 |  |
@@ -323,12 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |

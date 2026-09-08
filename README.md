@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort

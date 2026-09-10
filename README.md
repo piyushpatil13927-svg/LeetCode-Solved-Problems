@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0791-custom-sort-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0791-custom-sort-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |

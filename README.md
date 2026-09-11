@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |

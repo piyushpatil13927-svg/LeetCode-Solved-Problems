@@ -1,5 +1,5 @@
-class Solution(object):
-    def minimumCost(self, cost):
+class Solution:
+    def minimumCost(self, cost: List[int]) -> int:
         cost.sort(reverse= True)
         # if len(cost)<3:
         #     return sum(cost)
@@ -12,4 +12,4 @@ class Solution(object):
         # if len(a)%3!=0:
 
         return sum(a)
-
+            

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3498-reverse-degree-of-a-string) |

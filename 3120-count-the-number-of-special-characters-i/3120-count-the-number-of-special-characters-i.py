@@ -1,5 +1,5 @@
-class Solution(object):
-    def numberOfSpecialChars(self, word):
+class Solution:
+    def numberOfSpecialChars(self, word: str) -> int:
         w=''
         a = word.lower()
         for i in a:

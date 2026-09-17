@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0137-single-number-ii) |

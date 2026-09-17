@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1837-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -404,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

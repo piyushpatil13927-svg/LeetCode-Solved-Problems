@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1408-string-matching-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1446-consecutive-characters](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |

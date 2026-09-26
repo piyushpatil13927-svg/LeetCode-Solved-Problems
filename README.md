@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
+| [3280-convert-date-to-binary](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3280-convert-date-to-binary](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3536-maximum-product-of-two-digits) |

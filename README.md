@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3866-first-unique-even-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3866-first-unique-even-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3827-count-monobit-integers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String Matching

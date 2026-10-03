@@ -456,21 +456,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1672-richest-customer-wealth](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Number Theory

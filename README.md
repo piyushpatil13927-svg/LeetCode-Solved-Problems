@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |

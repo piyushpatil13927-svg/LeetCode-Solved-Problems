@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree

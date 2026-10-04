@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2784-check-if-array-is-good) |
+| [3033-modify-the-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3033-modify-the-matrix) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3115-maximum-prime-difference](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3115-maximum-prime-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
+| [3033-modify-the-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3033-modify-the-matrix) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Number Theory
 |  |

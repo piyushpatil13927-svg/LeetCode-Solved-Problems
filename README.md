@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2390-removing-stars-from-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3136-valid-word) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2293-min-max-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2293-min-max-game) |
+| [2390-removing-stars-from-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2810-faulty-keyboard) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0445-add-two-numbers-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack

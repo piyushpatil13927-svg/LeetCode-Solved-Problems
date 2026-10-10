@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0938-range-sum-of-bst) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0938-range-sum-of-bst) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0938-range-sum-of-bst) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1302-deepest-leaves-sum) |

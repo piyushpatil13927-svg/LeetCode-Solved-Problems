@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |

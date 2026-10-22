@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |

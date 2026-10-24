@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2032-two-out-of-three](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2032-two-out-of-three) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2540-minimum-common-value](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2540-minimum-common-value) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3033-modify-the-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3033-modify-the-matrix) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Number Theory

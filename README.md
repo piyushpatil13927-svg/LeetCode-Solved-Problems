@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [2487-remove-nodes-from-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -618,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

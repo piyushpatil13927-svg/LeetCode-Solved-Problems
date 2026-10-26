@@ -1,10 +1,11 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n = heights.size();
         vector<int>left(n),right(n);
         stack<int>st;
-
         for (int i=0;i<n;i++){
             while (!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
@@ -14,9 +15,9 @@ public:
 
             st.push(i);
         }
-
-        while (!st.empty()) st.pop();
-
+        while (!st.empty()){
+            st.pop();
+        }
         for (int i=n-1;i>=0;i--){
             while (!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
@@ -26,12 +27,11 @@ public:
 
             st.push(i);
         }
-        
-        long long maxi = 0;
+        long long ans = 0;
         for (int i=0;i<n;i++){
             long long area = heights[i]*(right[i]-left[i]-1);
-            maxi = max(maxi,area);
+            ans = max(ans,area);
         }
-        return maxi;
+        return ans;
     }
 };

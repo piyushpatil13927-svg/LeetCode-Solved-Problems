@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0118-pascals-triangle) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0867-transpose-matrix) |

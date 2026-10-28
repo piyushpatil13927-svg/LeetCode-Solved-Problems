@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0164-maximum-gap) |
 | [0216-combination-sum-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0498-diagonal-traverse) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0476-number-complement) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -628,4 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

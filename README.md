@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0164-maximum-gap) |
 | [0216-combination-sum-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -643,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

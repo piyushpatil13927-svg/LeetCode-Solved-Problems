@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3895-count-digit-appearances) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3861-minimum-capacity-box](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3866-first-unique-even-element) |

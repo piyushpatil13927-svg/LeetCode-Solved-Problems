@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0877-stone-game) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 ## Bit Manipulation
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushpatil13927-svg/LeetCode-Solved-Problems/tree/master/0876-middle-of-the-linked-list) |

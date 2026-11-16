@@ -21,12 +21,13 @@ public:
         }
         int maxi = 0;
         for (string i:ans){
-            int m = i.size();
-            maxi = max(maxi,m);
+            int size = i.size();
+            maxi = max(maxi,size);
         }
         string an = "";
         for (string i:ans){
-            if (i.size()==maxi){
+            int siz = i.size();
+            if (siz == maxi){
                 an = i;
                 break;
             }
